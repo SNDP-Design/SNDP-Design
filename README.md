@@ -1,9 +1,9 @@
 - **Sandeep Rathi** — Product Designer & AI Indie Builder
-- I design and build focused products with clear, practical user experiences.
+- I design and build Autonomous AI agent-focused products with clear, practical user experiences.
 - **Featured projects:**
-  - **[XGrowth](https://github.com/SNDP-Design/XGrowth)** — AI-powered growth workspace for founders · [Live website](https://www.xgrowth.uno/)
-  - **[Demonion](https://github.com/SNDP-Design/Demonion)** — Browser-based screen recording and editing studio · [Live website](https://www.demonion.uno/)
-  - **[AllStable](https://github.com/SNDP-Design/allstable)** — Stablecoin market data, comparisons, and learning tools · [Live website](https://www.allstable.uno/)
-  - **[Capwise](https://github.com/SNDP-Design/Capwise)** — Fundraising tools for financial models, cap tables, and pitch planning · [Live website](https://www.capwise.uno/)
+  - **[XGrowth](https://www.xgrowth.uno/)** — AI-powered growth workspace for founders
+  - **[Demonion](https://www.demonion.uno/)** — Browser-based screen recording and editing studio
+  - **[AllStable](https://www.allstable.uno/)** — Stablecoin market data, comparisons, and learning tools
+  - **[Capwise](https://www.capwise.uno/)** — Fundraising tools for financial models, cap tables, and pitch planning
 - **Focus:** Product design · AI tools · UX · Founder products
 - **Connect:** [Portfolio](https://www.sndpdesign.uno/) · [LinkedIn](https://www.linkedin.com/in/sndpdesign/) · [X](https://x.com/sndpdesign)
