@@ -1,44 +1,42 @@
 # Sandeep Rathi
 
-### Product Designer · AI Indie Builder · Building useful things from first principles
+- Product Designer and AI Indie Builder
+- I design and build focused products with simple, useful user experiences.
+- Interested in AI products, product strategy, UX, and founder tools.
+- Based in Bangalore, India.
 
-I design and build focused products that make complex work feel simple — from AI-powered growth tools and autonomous agent interfaces to voice experiences and practical productivity systems.
+## Featured Projects
 
-I care about:
+- **[XGrowth](https://github.com/SNDP-Design/XGrowth)**
+  - AI-powered growth workspace for founders.
+  - Live website: [www.xgrowth.uno](https://www.xgrowth.uno/)
+  - Dashboard: [www.xgrowth.uno/app/](https://www.xgrowth.uno/app/)
 
-- Clear product thinking and calm, high-signal interfaces
-- AI that produces visible, useful outcomes instead of empty automation claims
-- Free-first MVPs that people can actually try
-- Human approval at the moments where publishing, messaging, or external actions matter
-- Shipping, testing, and improving real products
+- **[Demonion](https://github.com/SNDP-Design/Demonion)**
+  - Browser-based screen recording and editing studio.
+  - Live website: [www.demonion.uno](https://www.demonion.uno/)
 
-## What I’m building
+- **[AllStable](https://github.com/SNDP-Design/allstable)**
+  - Free-first stablecoin market and learning hub.
+  - Compare prices, market data, peg movements, and beginner-friendly stablecoin information.
+  - Live website: [www.allstable.uno](https://www.allstable.uno/)
 
-| Product | What it does |
-| --- | --- |
-| [XGrowth](https://www.xgrowth.uno/) | A growth workspace for founders who want practical, focused tools to move from idea to traction. |
-| [Rabbit](https://github.com/SNDP-Design/Rabbit) | An autonomous GTM agent workspace for research, lead intelligence, personalized outreach, and pipeline operations. |
-| [RankTop](https://github.com/SNDP-Design/RankTop) | An AI search-visibility command center for SEO, AEO, and GEO workflows. [Try the live demo](https://sndp-design.github.io/RankTop/). |
-| [RankFox](https://github.com/SNDP-Design/RankFox) | A free-first, dependency-free SEO swarm MVP with 17 coordinated roles and honest local-simulation boundaries. |
+- **[Capwise](https://github.com/SNDP-Design/Capwise)**
+  - Fundraising workspace for early-stage founders.
+  - Includes financial modeling, cap-table tools, pitch guidance, and fundraising workflows.
+  - Live website: [www.capwise.uno](https://www.capwise.uno/)
 
+## What I Care About
 
+- Clear product thinking
+- Calm, high-signal interfaces
+- Practical AI with visible results
+- Free-first MVPs
+- Human approval for sensitive actions
+- Shipping, testing, and learning quickly
 
-## Tools I enjoy
+## Connect
 
-**Product & design:** Product strategy, UX flows, interaction design, rapid prototyping, design systems  
-**AI & agents:** Multi-agent orchestration, structured generation, voice interfaces, human-in-the-loop workflows  
-**Building:** HTML, CSS, JavaScript, React, SwiftUI, Vite, Firebase, GitHub Pages  
-**Free-first stack:** GitHub Pages, Cloudflare Workers, Google Search Console, Lighthouse, Google Trends, Bing Webmaster Tools
-
-
-
-## Find me
-
-- [Website](https://www.sndpdesign.uno/)
+- [Portfolio](https://www.sndpdesign.uno/)
 - [LinkedIn](https://www.linkedin.com/in/sndpdesign/)
 - [X / Twitter](https://x.com/sndpdesign)
-- [XGrowth](https://www.xgrowth.uno/)
-
----
-
-<sub>Built with curiosity, shipped with care. Based in Bangalore, India.</sub>
